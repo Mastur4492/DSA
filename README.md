@@ -17,3 +17,11 @@ Coding Ninjas / Naukri Code360 array practice questions solved in this folder.
 | 11 | `FindMissingNum.cpp` | Missing Number | [Open](https://www.naukri.com/code360/problems/missing-number_6680467) |
 | 12 | `MaximumConsecutiveOnes.cpp` | Maximum Consecutive Ones | [Open](https://www.naukri.com/code360/problems/maximum-consecutive-ones_11303094) |
 | 13 | `FindSingleElement.cpp` | Find The Single Element | [Open](https://www.naukri.com/code360/problem-details/find-the-single-element_6680465) |
+| 14 | `FindDuplicateInArray.cpp` | Find Duplicate in Array | [Open](https://www.naukri.com/code360/problem-details/find-duplicate-in-array_8289592) |
+| 15 | `MaximumSubarraySumKadane.cpp` | Maximum Subarray Sum | [Open](https://www.naukri.com/code360/problems/630526) |
+| 16 | `ReverseArrayAfterMPosition.cpp` | Reverse The Array | [Open](https://www.naukri.com/code360/problems/reverse-the-array_1262298) |
+| 17 | `LongestSubarrayWithSumKPositive.cpp` | Longest Subarray With Sum K | [Open](https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399) |
+| 18 | `LongestSubarrayWithSumKNegative.cpp` | Longest Subarray With Sum K | [Open](https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_5713505) |
+| 19 | `SubarraysWithSumKSlidingWindow.cpp` | Count All Subarrays With Given Sum | [Open](https://www.naukri.com/code360/problems/subarray-sums-i_1467103) |
+| 20 | `TwoSumYesNo.cpp` | Two Sum | [Open](https://www.naukri.com/code360/problems/reading_6845742) |
+| 21 | `TwoSumAllPairs.cpp` | Pair Sum | [Open](https://www.naukri.com/code360/problems/pair-sum_697295) |
