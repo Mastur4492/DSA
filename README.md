@@ -25,3 +25,7 @@ Coding Ninjas / Naukri Code360 array practice questions solved in this folder.
 | 19 | `SubarraysWithSumKSlidingWindow.cpp` | Count All Subarrays With Given Sum | [Open](https://www.naukri.com/code360/problems/subarray-sums-i_1467103) |
 | 20 | `TwoSumYesNo.cpp` | Two Sum | [Open](https://www.naukri.com/code360/problems/reading_6845742) |
 | 21 | `TwoSumAllPairs.cpp` | Pair Sum | [Open](https://www.naukri.com/code360/problems/pair-sum_697295) |
+| 22 | `sort_0_1_2.cpp` | Sort 0 1 2 | [Open](https://www.naukri.com/code360/problems/sort-0-1-2_631055) |
+| 23 | `majority_element.cpp` | Majority Element | [Open](https://www.naukri.com/code360/problems/majority-element_842495) |
+| 24 | `majority_element_2.cpp` | Majority Element - II | [Open](https://www.naukri.com/code360/problems/majority-element-ii_893027) |
+| 25 | `kadane_algorithm.cpp` | Maximum Subarray Sum | [Open](https://www.naukri.com/code360/problems/630526) |
