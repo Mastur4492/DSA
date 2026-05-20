@@ -1,3 +1,7 @@
+# DSA
+
+## Arrays
+
 | No. | File | Question Name | Difficulty | Main Concept / Algorithm | Link |
 | --- | --- | --- | --- | --- | --- |
 | 1 | `LongestElement.cpp` | Largest Element in the Array | 🟢 Easy | Linear Traversal | [Open](https://www.naukri.com/code360/problems/largest-element-in-the-array_9065124) |
@@ -25,3 +29,8 @@
 | 23 | `majority_element.cpp` | Majority Element | 🟠 Medium | Moore Voting Algorithm | [Open](https://www.naukri.com/code360/problems/majority-element_842495) |
 | 24 | `majority_element_2.cpp` | Majority Element - II | 🟠 Medium | Extended Moore Voting | [Open](https://www.naukri.com/code360/problems/majority-element-ii_893027) |
 | 25 | `kadane_algorithm.cpp` | Maximum Subarray Sum | 🟠 Medium | Kadane’s Algorithm | [Open](https://www.naukri.com/code360/problems/630526) |
+| 26 | `BestTimeToBuyAndSellStock.cpp` | Best Time to Buy and Sell Stock | 🟠 Medium | Greedy + Running Minimum | [Open](https://www.naukri.com/code360/problems/best-time-to-buy-and-sell-stock_893405) |
+| 27 | `AlternateNumbers.cpp` | Rearrange Array Elements by Sign | 🟠 Medium | Index Placement / Simulation | [Open](https://www.naukri.com/code360/problems/alternate-numbers_6783445) |
+| 28 | `AlternateNumbersVariant.cpp` | Alternate Numbers | 🟠 Medium | Positive-Negative Separation | [Open](https://www.naukri.com/code360/problems/alternate-numbers_6783445) |
+| 29 | `NextPermutation.cpp` | Next Permutation | 🟠 Medium | Lexicographical Permutation | [Open](https://www.naukri.com/code360/problems/next-permutaion_893046) |
+| 30 | `LeadersInAnArray.cpp` | Leaders in an Array | 🟡 Easy-Medium | Right Maximum Traversal | [Open](https://www.naukri.com/code360/problems/superior-elements_6783446) |
