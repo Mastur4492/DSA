@@ -34,3 +34,5 @@
 | 28 | `AlternateNumbersVariant.cpp` | Alternate Numbers | 🟠 Medium | Positive-Negative Separation | [Open](https://www.naukri.com/code360/problems/alternate-numbers_6783445) |
 | 29 | `NextPermutation.cpp` | Next Permutation | 🟠 Medium | Lexicographical Permutation | [Open](https://www.naukri.com/code360/problems/next-permutaion_893046) |
 | 30 | `LeadersInAnArray.cpp` | Leaders in an Array | 🟡 Easy-Medium | Right Maximum Traversal | [Open](https://www.naukri.com/code360/problems/superior-elements_6783446) |
+| 31 | `LongestConsecutiveSequence.cpp` | Longest Consecutive Sequence | 🟠 Medium | Hashing + Unordered Set | [Open](https://www.naukri.com/code360/problems/longest-successive-elements_6811740) |
+| 32 | `SetMatrixZeroes.cpp` | Set Matrix Zeroes | 🟠 Medium | Matrix Traversal + Space Optimization | [Open](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774) |
