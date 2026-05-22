@@ -36,3 +36,11 @@
 | 30 | `LeadersInAnArray.cpp` | Leaders in an Array | 🟡 Easy-Medium | Right Maximum Traversal | [Open](https://www.naukri.com/code360/problems/superior-elements_6783446) |
 | 31 | `LongestConsecutiveSequence.cpp` | Longest Consecutive Sequence | 🟠 Medium | Hashing + Unordered Set | [Open](https://www.naukri.com/code360/problems/longest-successive-elements_6811740) |
 | 32 | `SetMatrixZeroes.cpp` | Set Matrix Zeroes | 🟠 Medium | Matrix Traversal + Space Optimization | [Open](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774) |
+| 33 | `RotateMatrixClockwise.cpp` | Rotate Matrix by 90 Degrees | 🟠 Medium | Transpose + Reverse Rows | [Open](https://www.naukri.com/code360/problems/rotate-matrix-by-90-degrees_981261) |
+| 34 | `RotateMatrixAntiClockwise.cpp` | Rotate Matrix Anti Clockwise | 🟠 Medium | Transpose + Reverse Columns | [Open](https://www.naukri.com/code360/problems/rotate-matrix_981260) |
+| 35 | `RotateMatrixRightKTimes.cpp` | Rotate Matrix to the Right | 🟠 Medium | Cyclic Shift + Reversal Algorithm | [Open](https://www.naukri.com/code360/problems/rotate-matrix-to-the-right_1112619) |
+| 36 | `BoundaryRotationMatrix.cpp` | Rotate Matrix Clockwise | 🟠 Medium | Boundary Traversal / Ring Rotation | [Open](https://www.naukri.com/code360/problems/rotate-matrix-clockwise_981272) |
+| 37 | `SpiralMatrix.cpp` | Spiral Matrix | 🟡 Easy-Medium | Boundary Traversal | [Open](https://www.naukri.com/code360/problems/spiral-matrix_840698) |
+| 38 | `SpiralPrint.cpp` | Print Spiral | 🔴 Hard | Spiral Traversal | [Open](https://www.naukri.com/code360/problems/print-spiral_983635) |
+| 39 | `CountSubarraysWithGivenSum.cpp` | Count All Subarrays With Given Sum | 🟠 Medium | Prefix Sum + HashMap Frequency | [Open](https://www.naukri.com/code360/problems/subarray-sums-i_1467103) |
+| 40 | `ZeroMatrix.cpp` | Set Matrix Zeros | 🟠 Medium | Matrix Traversal + Space Optimization | [Open](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774) |
