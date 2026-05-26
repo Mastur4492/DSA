@@ -4,11 +4,10 @@ Solve Problems on Arrays [Easy -> Medium -> Hard]
 
 ## Summary
 
-- Total problems: 41
-- Easy problems: 12
-- Medium problems: 22
-- Hard problems: 7
-- Includes Coding Ninjas links and matching LeetCode links where available.
+ - Total problems: 43
+ - Easy problems: 12
+ - Medium problems: 29
+ - Hard problems: 2
 
 ## Easy
 
@@ -58,13 +57,15 @@ Solve Problems on Arrays [Easy -> Medium -> Hard]
 | 37 | `SpiralMatrix.cpp` | Spiral Matrix | 🟠 Medium | Boundary Traversal | [Coding Ninjas](https://www.naukri.com/code360/problems/spiral-matrix_840698) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) |
 | 38 | `CountSubarraysWithGivenSum.cpp` | Count All Subarrays With Given Sum | 🟠 Medium | Prefix Sum + HashMap Frequency | [Coding Ninjas](https://www.naukri.com/code360/problems/subarray-sums-i_1467103) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 39 | `ZeroMatrix.cpp` | Set Matrix Zeros | 🟠 Medium | Matrix Traversal + Space Optimization | [Coding Ninjas](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 40 | `ThreeSum.cpp` | 3 Sum | 🟠 Medium | Two Pointers + Sorting | - | [LeetCode](https://leetcode.com/problems/3sum/) |
+| 41 | `FourSum.cpp` | 4 Sum | 🟠 Medium | Two Pointers + Sorting | - | [LeetCode](https://leetcode.com/problems/4sum/) |
 
 ## Hard
 
 | No. | File | Problem | Difficulty | Concept | Coding Ninjas | LeetCode |
 | --- | --- | --- | --- | --- | --- | --- |
-| 40 | `majority_element_2.cpp` | Majority Element - II | 🔴 Hard | Extended Moore Voting | [Coding Ninjas](https://www.naukri.com/code360/problems/majority-element-ii_893027) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |
-| 41 | `SpiralPrint.cpp` | Print Spiral | 🔴 Hard | Spiral Traversal | [Coding Ninjas](https://www.naukri.com/code360/problems/print-spiral_983635) | - |
+| 42 | `majority_element_2.cpp` | Majority Element - II | 🔴 Hard | Extended Moore Voting | [Coding Ninjas](https://www.naukri.com/code360/problems/majority-element-ii_893027) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |
+| 43 | `SpiralPrint.cpp` | Print Spiral | 🔴 Hard | Spiral Traversal | [Coding Ninjas](https://www.naukri.com/code360/problems/print-spiral_983635) | - |
 
 ## Notes
 
