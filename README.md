@@ -4,9 +4,9 @@ Solve Problems on Arrays [Easy -> Medium -> Hard]
 
 ## Summary
 
- - Total problems: 43
+ - Total problems: 44
  - Easy problems: 12
- - Medium problems: 29
+ - Medium problems: 30
  - Hard problems: 2
 
 ## Easy
@@ -59,13 +59,14 @@ Solve Problems on Arrays [Easy -> Medium -> Hard]
 | 39 | `ZeroMatrix.cpp` | Set Matrix Zeros | 🟠 Medium | Matrix Traversal + Space Optimization | [Coding Ninjas](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 40 | `ThreeSum.cpp` | 3 Sum | 🟠 Medium | Two Pointers + Sorting | - | [LeetCode](https://leetcode.com/problems/3sum/) |
 | 41 | `FourSum.cpp` | 4 Sum | 🟠 Medium | Two Pointers + Sorting | - | [LeetCode](https://leetcode.com/problems/4sum/) |
+| 42 | `SubarraysWithXorK.cpp` | Count Subarrays With Given XOR K | 🟠 Medium | Prefix XOR + HashMap Frequency | [Coding Ninjas](https://www.naukri.com/code360/problems/count-subarrays-with-given-xor_1115652) | - |
 
 ## Hard
 
 | No. | File | Problem | Difficulty | Concept | Coding Ninjas | LeetCode |
 | --- | --- | --- | --- | --- | --- | --- |
-| 42 | `majority_element_2.cpp` | Majority Element - II | 🔴 Hard | Extended Moore Voting | [Coding Ninjas](https://www.naukri.com/code360/problems/majority-element-ii_893027) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |
-| 43 | `SpiralPrint.cpp` | Print Spiral | 🔴 Hard | Spiral Traversal | [Coding Ninjas](https://www.naukri.com/code360/problems/print-spiral_983635) | - |
+| 43 | `majority_element_2.cpp` | Majority Element - II | 🔴 Hard | Extended Moore Voting | [Coding Ninjas](https://www.naukri.com/code360/problems/majority-element-ii_893027) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |
+| 44 | `SpiralPrint.cpp` | Print Spiral | 🔴 Hard | Spiral Traversal | [Coding Ninjas](https://www.naukri.com/code360/problems/print-spiral_983635) | - |
 
 ## Notes
 
